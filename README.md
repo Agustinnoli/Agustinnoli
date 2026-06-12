@@ -4,7 +4,6 @@ Computer Science student at the University of Buenos Aires (UBA).
 Interested in operating systems, systems programming, computer architecture, algorithms and backend development.
 
 - 🎓 B.Sc. in Computer Science (UBA)
-- 📈 GPA: 9.42 / 10
 - 📍 Buenos Aires, Argentina
 
 ---
