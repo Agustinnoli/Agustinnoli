@@ -56,17 +56,6 @@ Interested in operating systems, systems programming, computer architecture, alg
 
 ---
 
-## Other Projects
-
-| Project | Description |
-|----------|-------------|
-| [BestEffort](https://github.com/Agustinnoli/Implementaci-n-y-An-lisis-de-Heap-Binario) | Logistics dispatch system developed under strict algorithmic complexity constraints. |
-| [Katamino Solver](https://github.com/Agustinnoli/tp-prolog-katamino) | Puzzle solver implemented using logic programming in Prolog. |
-| [Regular Expressions](https://github.com/Agustinnoli/tp-regex) | Academic project focused on pattern matching and formal languages. |
-| [Git Exercises](https://github.com/Agustinnoli/tp-git) | Exploration of version control concepts and workflows. |
-
----
-
 ## Currently Learning
 
 - Advanced Operating Systems
